@@ -66,11 +66,6 @@ This program demonstrates how to reverse an array using stack operations (push a
 
 
 
-📌 Output Preview:
-
-![image](https://github.com/user-attachments/assets/82aae9fb-63fe-4e83-aedd-79a737f044c2)
-
-
 🔍 6. Common Array Algorithms i) Finding Common Elements This implementation identifies shared elements between two arrays.
 
 
