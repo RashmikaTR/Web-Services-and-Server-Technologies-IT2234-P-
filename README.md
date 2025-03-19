@@ -1,4 +1,6 @@
-🚀 Web Services and Server Technologies – Practical Records (IT2234) 📖 Practical Records 2021/ICT/14 Day 02
+🚀 Web Services and Server Technologies – Practical Records (IT2234) 📖 Practical Records
+ 2021/ICT/45
+ Day 02
 
 This repository contains various JavaScript implementations for fundamental array operations, JSON handling, and working with nested data structures as part of the Web Services and Server Technologies practical records. The programs include array manipulation techniques, searching for common elements, and handling JSON objects.
 
